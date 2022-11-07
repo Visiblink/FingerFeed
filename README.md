@@ -10,4 +10,4 @@ Add your own list of finger addresses (as many as you like) to the addresses sec
 
 Make the script executable and run it.
 
-For the navigation commands, type: man less
+The script uses less to read the entries, so you can find the navigation commands by checking the man page for less.
